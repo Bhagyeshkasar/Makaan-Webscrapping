@@ -1,6 +1,7 @@
 # Webscrapping Makaan.com
 
 **Scrapped the data of the apartments from Makaan.com**
+
 We will be scraping real estate data from Makaan.com for the properties in Mumbai. Here, we have scrapped the data of 50 pages.
 
 
